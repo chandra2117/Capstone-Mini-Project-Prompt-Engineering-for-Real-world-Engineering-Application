@@ -1,6 +1,6 @@
 # **Ex.No.10 – Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns**
 
-## **Name: ** Chandrapriyadharshini C
+## **Name:** Chandrapriyadharshini C
 
 ## **Reg. No.:** 212224060203
 
